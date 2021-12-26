@@ -1,0 +1,12 @@
+#header {
+    max-width: 100%;
+    background: #fff;
+    box-shadow: 0 2px 8px #f0f1f2;
+}
+
+
+.main-wrapper {
+    position: relative;
+    padding: 40px 0 0;
+    height: 100%;
+}
